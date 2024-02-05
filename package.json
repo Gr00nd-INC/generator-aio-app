@@ -52,7 +52,7 @@
     "@adobe/generator-add-action-customer-profile": "^0.1.1",
     "@adobe/generator-add-action-generic": "^0.2.2",
     "@adobe/generator-add-action-target": "^0.1.1",
-    "@adobe/generator-add-web-assets-exc-raw-html": "^0.2.1",
+    "@adobe/generator-add-web-assets-exc-raw-html": "^1.0.1",
     "@adobe/generator-add-web-assets-exc-react": "^0.2.1",
     "@adobe/generator-app-asset-compute": "^1.0.0",
     "@adobe/generator-app-common-lib": "^0.3.3",
