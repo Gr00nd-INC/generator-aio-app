@@ -44,7 +44,7 @@
     "yeoman-test": "^6.0.0"
   },
   "dependencies": {
-    "@adobe/aio-lib-env": "^2.0.0",
+    "@adobe/aio-lib-env": "^3.0.0",
     "@adobe/generator-add-action-analytics": "^0.1.1",
     "@adobe/generator-add-action-asset-compute": "^1.0.0",
     "@adobe/generator-add-action-audience-manager-cd": "^0.1.1",
